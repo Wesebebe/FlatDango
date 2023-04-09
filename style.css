@@ -43,7 +43,8 @@ body {
   }
   
   .sold-out {
-    color: lightgray;
+    /* color: lightgray; */
+    color: black;
   }
   
   img {
